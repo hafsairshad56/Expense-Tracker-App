@@ -132,7 +132,7 @@ Free to use with proper attribution.
 
 ## 👨‍💻 Developer Information
 - **Developer:** Hafsa Irshad  
-- **Project Type:** University Final Year Project  
+- **Project Type:** University Samester Project  
 - **Course:** Mobile Application Development  
 
 ---
